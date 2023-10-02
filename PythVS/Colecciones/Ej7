@@ -1,0 +1,9 @@
+opcion=int
+
+print('')
+
+
+frase=input('Escribe un texto')
+frase=frase.split()
+diccionario={'C':1972, 'python': 1991, 'Java': 1996}
+diccionario['C++']=1980
